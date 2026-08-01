@@ -1,0 +1,9 @@
+# Holky v Praze Průvodce
+Tato stránka poskytuje informace, průvodce a tipy pro ženy žijící v Praze nebo ji navštěvující. Obsahuje články o zábavě, kultuře a gastronomii v Praze.
+Autor: Radka Holubová
+Jazyk: Czech
+Hlavní články:
+- Kde hledat dobrou zábavu
+- Zábava pro holky
+- Pražská kultura
+- Kavárny a bary
